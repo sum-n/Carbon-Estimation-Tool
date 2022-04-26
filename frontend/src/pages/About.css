@@ -1,0 +1,15 @@
+h2 {
+    text-align: center;
+    margin: 10px;
+    text-decoration: underline;
+}
+
+.h3 {
+    text-align: left;
+    margin: 10px;
+
+}
+
+.about {
+    min-height: 85.51vh;
+}

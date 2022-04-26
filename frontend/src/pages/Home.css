@@ -1,0 +1,26 @@
+.estimateButton {
+    background-color: mediumturquoise;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    width: 20%;
+    text-decoration: none;
+    margin-left: 40%;
+}
+body{
+    min-height: 85.51vh;
+    background-color: white;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.h3 {
+    display: flex;
+    justify-content: center;
+}

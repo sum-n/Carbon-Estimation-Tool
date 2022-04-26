@@ -1,0 +1,50 @@
+.nav {
+    background: mediumturquoise;
+    padding: 2rem;
+    border-bottom: 1px solid #ccc;
+    font-size: large;
+    color: #000;
+    font-weight: 500;
+    box-sizing: 100%;
+    text-align: center;
+}
+
+.navHome {
+    padding: 2rem;
+    color: #000;
+    font-weight: 500;
+    box-sizing: 100%;
+    text-decoration: none;
+}
+
+.navForm {
+    padding: 2rem;
+    color: #000;
+    font-weight: 500;
+    box-sizing: 100%;
+    text-decoration: none;
+}
+
+.navAbout {
+    padding: 2rem;
+    color: #000;
+    font-weight: 500;
+    box-sizing: 100%;
+    text-decoration: none;
+}
+
+.footer {
+    height: 100%;
+    background: mediumturquoise;
+    padding: 0.5rem;
+    border-top: 1px solid #ccc;
+    font-size: large;
+    color: #000;
+    font-weight: 500;
+    box-sizing: 100%;
+    text-align: center;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+}
