@@ -7,7 +7,7 @@ const port = process.env.PORT || 4000;
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect("mongodb+srv://suman:suman@cluster0.l6wwf.mongodb.net/formData",
+mongoose.connect("MongoDB URL",
     { useNewUrlParser: true, useUnifiedTopology: true });
 
 app.use("/", require("./routes/formRoute"));
